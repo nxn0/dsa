@@ -9,6 +9,7 @@ personal archive. code is pushed automatically.
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/nxn0/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2012-process-tasks-using-servers](https://github.com/nxn0/dsa/tree/master/2012-process-tasks-using-servers) |
+| [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -33,4 +34,8 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/nxn0/dsa/tree/master/1396-count-servers-that-communicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
