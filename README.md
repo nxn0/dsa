@@ -38,4 +38,12 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
+## Math
+|  |
+| ------- |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/nxn0/dsa/tree/master/4147-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/nxn0/dsa/tree/master/4147-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
