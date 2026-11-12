@@ -9,6 +9,7 @@ personal archive. code is pushed automatically.
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/nxn0/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2012-process-tasks-using-servers](https://github.com/nxn0/dsa/tree/master/2012-process-tasks-using-servers) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nxn0/dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
