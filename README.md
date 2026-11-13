@@ -10,6 +10,7 @@ personal archive. code is pushed automatically.
 | [1396-count-servers-that-communicate](https://github.com/nxn0/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2012-process-tasks-using-servers](https://github.com/nxn0/dsa/tree/master/2012-process-tasks-using-servers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nxn0/dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -47,4 +48,28 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/nxn0/dsa/tree/master/4147-minimum-cost-to-acquire-required-items) |
+## Stack
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
