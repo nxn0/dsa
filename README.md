@@ -8,6 +8,7 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/nxn0/dsa/tree/master/1396-count-servers-that-communicate) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nxn0/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2012-process-tasks-using-servers](https://github.com/nxn0/dsa/tree/master/2012-process-tasks-using-servers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nxn0/dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3644-minimum-positive-sum-subarray](https://github.com/nxn0/dsa/tree/master/3644-minimum-positive-sum-subarray) |
@@ -40,10 +41,12 @@ personal archive. code is pushed automatically.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nxn0/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nxn0/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/nxn0/dsa/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
@@ -77,5 +80,6 @@ personal archive. code is pushed automatically.
 ## Prefix Sum
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nxn0/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/nxn0/dsa/tree/master/3644-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
