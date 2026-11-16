@@ -82,4 +82,12 @@ personal archive. code is pushed automatically.
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nxn0/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/nxn0/dsa/tree/master/3644-minimum-positive-sum-subarray) |
+## String
+|  |
+| ------- |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/nxn0/dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/nxn0/dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
