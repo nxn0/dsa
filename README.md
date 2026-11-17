@@ -42,6 +42,7 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nxn0/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/nxn0/dsa/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
 ## Math
 |  |
@@ -86,8 +87,13 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/nxn0/dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/nxn0/dsa/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/nxn0/dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/nxn0/dsa/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
