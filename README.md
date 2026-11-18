@@ -88,6 +88,7 @@ personal archive. code is pushed automatically.
 | ------- |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/nxn0/dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/nxn0/dsa/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nxn0/dsa/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
