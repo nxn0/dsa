@@ -11,6 +11,7 @@ personal archive. code is pushed automatically.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nxn0/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2012-process-tasks-using-servers](https://github.com/nxn0/dsa/tree/master/2012-process-tasks-using-servers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nxn0/dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/nxn0/dsa/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3644-minimum-positive-sum-subarray](https://github.com/nxn0/dsa/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
@@ -22,6 +23,7 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/nxn0/dsa/tree/master/1396-count-servers-that-communicate) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/nxn0/dsa/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ personal archive. code is pushed automatically.
 | [2361-calculate-digit-sum-of-a-string](https://github.com/nxn0/dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/nxn0/dsa/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nxn0/dsa/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/nxn0/dsa/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -97,4 +100,12 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/nxn0/dsa/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
+## Hash Table
+|  |
+| ------- |
+| [3576-find-subtree-sizes-after-changes](https://github.com/nxn0/dsa/tree/master/3576-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3576-find-subtree-sizes-after-changes](https://github.com/nxn0/dsa/tree/master/3576-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
