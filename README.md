@@ -15,6 +15,7 @@ personal archive. code is pushed automatically.
 | [3576-find-subtree-sizes-after-changes](https://github.com/nxn0/dsa/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3644-minimum-positive-sum-subarray](https://github.com/nxn0/dsa/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nxn0/dsa/tree/master/3702-maximum-subarray-with-equal-products) |
 | [4041-climbing-stairs-ii](https://github.com/nxn0/dsa/tree/master/4041-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -52,6 +53,7 @@ personal archive. code is pushed automatically.
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/nxn0/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nxn0/dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nxn0/dsa/tree/master/3702-maximum-subarray-with-equal-products) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/nxn0/dsa/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@ personal archive. code is pushed automatically.
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/nxn0/dsa/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/nxn0/dsa/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nxn0/dsa/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,4 +123,12 @@ personal archive. code is pushed automatically.
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/nxn0/dsa/tree/master/1477-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nxn0/dsa/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/nxn0/dsa/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
